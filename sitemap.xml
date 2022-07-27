@@ -2,33 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://wilsonlaiwx.github.io/whitehelmetdev.github.io/resume/</loc>
+    <loc>http://example.org/resume/</loc>
     <lastmod>2022-07-10T22:49:56+08:00</lastmod>
   </url><url>
-    <loc>https://wilsonlaiwx.github.io/whitehelmetdev.github.io/about/</loc>
+    <loc>http://example.org/about/</loc>
     <lastmod>2022-07-10T18:20:09+08:00</lastmod>
   </url><url>
-    <loc>https://wilsonlaiwx.github.io/whitehelmetdev.github.io/</loc>
+    <loc>http://example.org/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://wilsonlaiwx.github.io/whitehelmetdev.github.io/projects/awesomeco/</loc>
+    <loc>http://example.org/projects/awesomeco/</loc>
   </url><url>
-    <loc>https://wilsonlaiwx.github.io/whitehelmetdev.github.io/categories/</loc>
+    <loc>http://example.org/categories/</loc>
   </url><url>
-    <loc>https://wilsonlaiwx.github.io/whitehelmetdev.github.io/presentations/hackerone/</loc>
+    <loc>http://example.org/presentations/hackerone/</loc>
   </url><url>
-    <loc>https://wilsonlaiwx.github.io/whitehelmetdev.github.io/projects/jabberwocky/</loc>
+    <loc>http://example.org/projects/jabberwocky/</loc>
   </url><url>
-    <loc>https://wilsonlaiwx.github.io/whitehelmetdev.github.io/projects/linkitivity/</loc>
+    <loc>http://example.org/projects/linkitivity/</loc>
   </url><url>
-    <loc>https://wilsonlaiwx.github.io/whitehelmetdev.github.io/presentations/</loc>
+    <loc>http://example.org/presentations/</loc>
   </url><url>
-    <loc>https://wilsonlaiwx.github.io/whitehelmetdev.github.io/projects/</loc>
+    <loc>http://example.org/projects/</loc>
   </url><url>
-    <loc>https://wilsonlaiwx.github.io/whitehelmetdev.github.io/tags/</loc>
+    <loc>http://example.org/tags/</loc>
   </url><url>
-    <loc>https://wilsonlaiwx.github.io/whitehelmetdev.github.io/presentations/tjnull/</loc>
+    <loc>http://example.org/presentations/tjnull/</loc>
   </url><url>
-    <loc>https://wilsonlaiwx.github.io/whitehelmetdev.github.io/presentations/tryhackme/</loc>
+    <loc>http://example.org/presentations/tryhackme/</loc>
   </url>
 </urlset>

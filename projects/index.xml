@@ -2,34 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Wilson&#39;s Portfolio</title>
-    <link>https://wilsonlaiwx.github.io/whitehelmetdev.github.io/projects/</link>
+    <link>http://example.org/projects/</link>
     <description>Recent content in Projects on Wilson&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://wilsonlaiwx.github.io/whitehelmetdev.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://example.org/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Awesomeco</title>
-      <link>https://wilsonlaiwx.github.io/whitehelmetdev.github.io/projects/awesomeco/</link>
+      <link>http://example.org/projects/awesomeco/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://wilsonlaiwx.github.io/whitehelmetdev.github.io/projects/awesomeco/</guid>
+      <guid>http://example.org/projects/awesomeco/</guid>
       <description>Summary of the AwesomeCo project</description>
     </item>
     
     <item>
       <title>Jabberwocky</title>
-      <link>https://wilsonlaiwx.github.io/whitehelmetdev.github.io/projects/jabberwocky/</link>
+      <link>http://example.org/projects/jabberwocky/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://wilsonlaiwx.github.io/whitehelmetdev.github.io/projects/jabberwocky/</guid>
+      <guid>http://example.org/projects/jabberwocky/</guid>
       <description>Summary of the Jabberwocky project</description>
     </item>
     
     <item>
       <title>Linkitivity</title>
-      <link>https://wilsonlaiwx.github.io/whitehelmetdev.github.io/projects/linkitivity/</link>
+      <link>http://example.org/projects/linkitivity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://wilsonlaiwx.github.io/whitehelmetdev.github.io/projects/linkitivity/</guid>
+      <guid>http://example.org/projects/linkitivity/</guid>
       <description>Summary of the Linkitivity project</description>
     </item>
     
