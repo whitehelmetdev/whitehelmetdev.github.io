@@ -2,34 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Wilson&#39;s Portfolio</title>
-    <link>http://example.org/projects/</link>
+    <link>whitehelmetdev.github.io/projects/</link>
     <description>Recent content in Projects on Wilson&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/projects/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="whitehelmetdev.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Awesomeco</title>
-      <link>http://example.org/projects/awesomeco/</link>
+      <link>whitehelmetdev.github.io/projects/awesomeco/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/awesomeco/</guid>
+      <guid>whitehelmetdev.github.io/projects/awesomeco/</guid>
       <description>Summary of the AwesomeCo project</description>
     </item>
     
     <item>
       <title>Jabberwocky</title>
-      <link>http://example.org/projects/jabberwocky/</link>
+      <link>whitehelmetdev.github.io/projects/jabberwocky/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/jabberwocky/</guid>
+      <guid>whitehelmetdev.github.io/projects/jabberwocky/</guid>
       <description>Summary of the Jabberwocky project</description>
     </item>
     
     <item>
       <title>Linkitivity</title>
-      <link>http://example.org/projects/linkitivity/</link>
+      <link>whitehelmetdev.github.io/projects/linkitivity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/linkitivity/</guid>
+      <guid>whitehelmetdev.github.io/projects/linkitivity/</guid>
       <description>Summary of the Linkitivity project</description>
     </item>
     

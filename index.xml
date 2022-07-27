@@ -2,79 +2,79 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wilson&#39;s Portfolio</title>
-    <link>http://example.org/</link>
+    <link>whitehelmetdev.github.io/</link>
     <description>Recent content on Wilson&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="whitehelmetdev.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Résumé</title>
-      <link>http://example.org/resume/</link>
+      <link>whitehelmetdev.github.io/resume/</link>
       <pubDate>Sun, 10 Jul 2022 22:49:56 +0800</pubDate>
       
-      <guid>http://example.org/resume/</guid>
+      <guid>whitehelmetdev.github.io/resume/</guid>
       <description>This is my Résumé.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://example.org/about/</link>
+      <link>whitehelmetdev.github.io/about/</link>
       <pubDate>Sun, 10 Jul 2022 18:20:09 +0800</pubDate>
       
-      <guid>http://example.org/about/</guid>
+      <guid>whitehelmetdev.github.io/about/</guid>
       <description>This is my about page.</description>
     </item>
     
     <item>
       <title>Awesomeco</title>
-      <link>http://example.org/projects/awesomeco/</link>
+      <link>whitehelmetdev.github.io/projects/awesomeco/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/awesomeco/</guid>
+      <guid>whitehelmetdev.github.io/projects/awesomeco/</guid>
       <description>Summary of the AwesomeCo project</description>
     </item>
     
     <item>
       <title>Hackerone</title>
-      <link>http://example.org/presentations/hackerone/</link>
+      <link>whitehelmetdev.github.io/presentations/hackerone/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/presentations/hackerone/</guid>
+      <guid>whitehelmetdev.github.io/presentations/hackerone/</guid>
       <description>Presentation Topics:  Bug Bounty Active Directory PowerShell  </description>
     </item>
     
     <item>
       <title>Jabberwocky</title>
-      <link>http://example.org/projects/jabberwocky/</link>
+      <link>whitehelmetdev.github.io/projects/jabberwocky/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/jabberwocky/</guid>
+      <guid>whitehelmetdev.github.io/projects/jabberwocky/</guid>
       <description>Summary of the Jabberwocky project</description>
     </item>
     
     <item>
       <title>Linkitivity</title>
-      <link>http://example.org/projects/linkitivity/</link>
+      <link>whitehelmetdev.github.io/projects/linkitivity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/linkitivity/</guid>
+      <guid>whitehelmetdev.github.io/projects/linkitivity/</guid>
       <description>Summary of the Linkitivity project</description>
     </item>
     
     <item>
       <title>TJnull</title>
-      <link>http://example.org/presentations/tjnull/</link>
+      <link>whitehelmetdev.github.io/presentations/tjnull/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/presentations/tjnull/</guid>
+      <guid>whitehelmetdev.github.io/presentations/tjnull/</guid>
       <description>Presentation Topics:  OSCP OSEP CISSP  </description>
     </item>
     
     <item>
       <title>Tryhackme</title>
-      <link>http://example.org/presentations/tryhackme/</link>
+      <link>whitehelmetdev.github.io/presentations/tryhackme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/presentations/tryhackme/</guid>
+      <guid>whitehelmetdev.github.io/presentations/tryhackme/</guid>
       <description>Presentation Topics:  Offensive Security Path Fundamentals Path Netlify  </description>
     </item>
     
